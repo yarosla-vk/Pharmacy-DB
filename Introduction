@@ -1,0 +1,23 @@
+In our time of innovative technologies, countries around the world are striving to become increasingly digital. Many countries already use internet applications for well-known retail stores and restaurants. Ukraine is keeping pace with these global trends, and personal experience confirms that there are many useful and convenient web applications available in Ukraine. Therefore, in this coursework, I would like to present an example of a desktop application for a pharmacy.
+
+In the context of this technological development, it is important to note that desktop applications for pharmacies can open new opportunities for improving customer service and optimizing business processes. This desktop application aims to streamline the management processes of a pharmacy and enhance customer service. The application will allow customers to quickly and conveniently purchase medications and other medical products online.
+
+Additionally, the application's functionality includes the ability to view information about each product, including its composition, expiration date, and manufacturer. Customers can create personal accounts where their purchase history is stored, and they can also request prescriptions or consult with specialists.
+
+Furthermore, the desktop application will provide pharmacy staff with an easy-to-use interface for managing inventory, accepting new products, and tracking sales. The system's functionality will allow for classifying products by categories, setting sales rules for each group, and ensuring automatic removal of expired products from the inventory.
+
+1. ANALYSIS OF THE SUBJECT AREA AND TASK SETTING
+The subject area of my coursework is the pharmacy. It is necessary to automate the information service for pharmacy employees and management. The primary task of pharmaceutical and medical organizations is to provide the population, medical institutions, and other healthcare organizations with medications and medical supplies.
+
+Pharmacies offer various categories of products, such as over-the-counter and prescription medications, vitamins, cosmetic products, and medical supplies. All these items differ in their purpose, effectiveness, and the documentation required for purchase. Some medications and medical products are sold by prescription only. Certain vitamins and cosmetic products can be sold without a prescription but may require consultation with a pharmacy specialist.
+
+Pharmacy staff are responsible for verifying all of the above information. All documents must be checked, and necessary information must be entered into the database. If a customer does not meet the conditions of sale or does not provide the required documentation, the pharmacy staff cannot sell the product.
+
+Each product has its own characteristics (composition, expiration date, manufacturer, etc.). The database should also store information about customers and their purchases. This includes developing a system for ordering and accounting for products in the pharmacy. Additionally, it is important to automate interactions between pharmacy staff and the administrative department to effectively address tasks related to inventory control.
+
+Task Setting:
+Develop a relational database for data storage.
+Implement order processing, product reservation, and the ability to input, edit, and delete information.
+Implement data validation for entries in the database.
+Implement data searching based on necessary parameters.
+Develop a user-friendly interface for interacting with the database.
