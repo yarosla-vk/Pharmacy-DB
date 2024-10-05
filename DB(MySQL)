@@ -1,0 +1,92 @@
+1) CREATE TABLE Products (
+    id_tov INT PRIMARY KEY AUTO_INCREMENT UNIQUE,
+    tov_name VARCHAR(100) UNIQUE NOT NULL,
+    tov_maker VARCHAR(100) NOT NULL,
+    tov_country VARCHAR(100) NOT NULL,
+    tov_annotation TEXT NOT NULL,
+    category VARCHAR(255) NOT NULL
+):
+2) CREATE TABLE Form (
+    id_form TINYINT PRIMARY KEY AUTO_INCREMENT UNIQUE,
+    id_tov TINYINT, -- Foreign key for product ID
+    form_info VARCHAR(100) NOT NULL, -- Release form
+    form_age TINYINT NOT NULL, -- Age
+    form_date DATETIME UNSIGNED NOT NULL, -- Expiration date
+    form_dose TINYINT UNSIGNED NOT NULL, -- Dosage
+    form_amount TINYINT UNSIGNED NOT NULL, -- Quantity
+    form_price DECIMAL(10, 2) UNSIGNED NOT NULL, -- Price
+    FOREIGN KEY (id_tov) REFERENCES Products(id_tov) -- Reference to Products table
+);
+3) CREATE TABLE Client (
+    id_client TINYINT PRIMARY KEY AUTO_INCREMENT UNIQUE,
+    client_name VARCHAR(100) NOT NULL, -- Full name
+    client_phone VARCHAR(20) NOT NULL, -- Phone number
+    client_post VARCHAR(30), -- Email
+    client_address VARCHAR(100) -- Address
+);
+4)CREATE TABLE Sale (
+    id_sale TINYINT PRIMARY KEY AUTO_INCREMENT UNIQUE,
+    id_client TINYINT, -- Foreign key for client ID
+    id_employee TINYINT, -- Foreign key for employee ID
+    sale_date DATETIME NOT NULL, -- Purchase date/time
+    FOREIGN KEY (id_client) REFERENCES Client(id_client), -- Reference to Client table
+    FOREIGN KEY (id_employee) REFERENCES Employee(id_employee) -- Reference to Employee table
+);
+5)CREATE TABLE SaleProducts (
+    id_sale_product TINYINT PRIMARY KEY AUTO_INCREMENT UNIQUE,
+    id_sale TINYINT, -- Foreign key for sale ID
+    id_form TINYINT, -- Foreign key for form ID
+    product_sale_amount TINYINT UNSIGNED, -- Quantity
+    product_sale_price DECIMAL(10, 2) UNSIGNED, -- Price
+    FOREIGN KEY (id_sale) REFERENCES Sale(id_sale), -- Reference to Sale table
+    FOREIGN KEY (id_form) REFERENCES Form(id_form) -- Reference to Form table
+);
+6)CREATE TABLE Employee (
+    id_employee TINYINT PRIMARY KEY AUTO_INCREMENT UNIQUE,
+    employee_name VARCHAR(100) NOT NULL, -- Full name
+    employee_position VARCHAR(100) NOT NULL, -- Position
+    employee_phone VARCHAR(20) DEFAULT(0), -- Phone number
+    employee_address VARCHAR(100) DEFAULT(0), -- Address
+    employee_sex CHAR(2) NOT NULL, -- Gender
+    employee_birth DATE NOT NULL -- Date of birth
+);
+7)CREATE TABLE Supplier (
+    id_supplier TINYINT PRIMARY KEY AUTO_INCREMENT UNIQUE,
+    supplier_company VARCHAR(100) NOT NULL, -- Company name
+    supplier_phone VARCHAR(20) NOT NULL, -- Phone number
+    supplier_address VARCHAR(100) NOT NULL, -- Address
+    supplier_account VARCHAR(50) UNIQUE NOT NULL -- Account number
+);
+8)CREATE TABLE Supply (
+    id_supply TINYINT PRIMARY KEY AUTO_INCREMENT UNIQUE,
+    id_form TINYINT, -- Foreign key for form ID
+    id_invoice TINYINT, -- Foreign key for invoice ID
+    supply_amount TINYINT UNSIGNED NOT NULL, -- Amount
+    supply_price DECIMAL(10, 2) UNSIGNED NOT NULL, -- Price per unit
+    FOREIGN KEY (id_form) REFERENCES Form(id_form), -- Reference to Form table
+    FOREIGN KEY (id_invoice) REFERENCES Invoice(id_invoice) -- Reference to Invoice table
+);
+9)CREATE TABLE Invoice (
+    id_invoice TINYINT PRIMARY KEY AUTO_INCREMENT UNIQUE,
+    id_employee TINYINT, -- Foreign key for employee ID
+    id_supplier TINYINT, -- Foreign key for supplier ID
+    invoice_date DATE NOT NULL, -- Supply date
+    invoice_complaints TEXT, -- Complaints
+    FOREIGN KEY (id_employee) REFERENCES Employee(id_employee), -- Reference to Employee table
+    FOREIGN KEY (id_supplier) REFERENCES Supplier(id_supplier) -- Reference to Supplier table
+);
+10)CREATE TABLE Booking (
+    id_booking TINYINT PRIMARY KEY AUTO_INCREMENT UNIQUE,
+    id_form TINYINT, -- Foreign key for form ID
+    booking_date DATE NOT NULL, -- Booking ID
+    booking_prepayment TINYINT, -- Prepayment
+    booking_finish_date DATE NOT NULL, -- Completion date of the order
+    id_client TINYINT, -- Foreign key for client ID
+    client_name VARCHAR(100), -- Full name of the client
+    client_phone VARCHAR(20), -- Client's phone number
+    booking_amount TINYINT, -- Booking quantity
+    booking_status VARCHAR(50) NOT NULL, -- Booking status
+    FOREIGN KEY (id_form) REFERENCES Form(id_form), -- Reference to Form table
+    FOREIGN KEY (id_client) REFERENCES Client(id_client) -- Reference to Client table
+);
+
