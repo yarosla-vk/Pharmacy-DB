@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Supplier>
+	<SupplierRecord id_supplier="1" supplier_firma="Фармацевтична компанія 'МедФарм'" supplier_phone="1234567890" supplier_address="вул. Промислова 10, м. Київ" supplier_bill="12345678901234567890"/>
+	<SupplierRecord id_supplier="2" supplier_firma="Косметична компанія 'BeautyLife'" supplier_phone="0987654321" supplier_address="вул. Головна 5, м. Львів" supplier_bill="09876543210987654321"/>
+	<SupplierRecord id_supplier="3" supplier_firma="Фармацевтична компанія 'Фармак'" supplier_phone="9876543210" supplier_address="вул. Центральна 15, м. Харків" supplier_bill="98765432109876543210"/>
+	<SupplierRecord id_supplier="4" supplier_firma="Косметична компанія 'EcoBeauty'" supplier_phone="0123456789" supplier_address="вул. Зелена 3, м. Одеса" supplier_bill="01234567890123456789"/>
+	<SupplierRecord id_supplier="5" supplier_firma="Фармацевтична компанія 'Здоров'я'" supplier_phone="5555555555" supplier_address="вул. Здоров'я 1, м. Дніпро" supplier_bill="55555555555555555555"/>
+	<SupplierRecord id_supplier="6" supplier_firma="Косметична компанія 'Glamour'" supplier_phone="6666666666" supplier_address="вул. Модна 7, м. Луцьк" supplier_bill="66666666666666666666"/>
+	<SupplierRecord id_supplier="7" supplier_firma="Фармацевтична компанія 'Фармаком'" supplier_phone="7777777777" supplier_address="вул. Медична 12, м. Запоріжжя" supplier_bill="77777777777777777777"/>
+	<SupplierRecord id_supplier="8" supplier_firma="Косметична компанія 'BeautyLine'" supplier_phone="8888888888" supplier_address="вул. Вишукана 2, м. Івано-Франківськ" supplier_bill="88888888888888888888"/>
+	<SupplierRecord id_supplier="9" supplier_firma="Фармацевтична компанія 'Здоровість'" supplier_phone="9999999999" supplier_address="вул. Здоровий Всім 9, м. Рівне" supplier_bill="99999999999999999999"/>
+	<SupplierRecord id_supplier="10" supplier_firma="Косметична компанія 'PureBeauty'" supplier_phone="1010101010" supplier_address="вул. Чиста 20, м. Чернівці" supplier_bill="10101010101010101010"/>
+	<SupplierRecord id_supplier="11" supplier_firma="Фармацевтична компанія 'Ліки'" supplier_phone="1111111111" supplier_address="вул. Терапевтична 4, м. Суми" supplier_bill="11111111111111111111"/>
+	<SupplierRecord id_supplier="12" supplier_firma="Косметична компанія 'NatureCare'" supplier_phone="1212121212" supplier_address="вул. Природна 6, м. Херсон" supplier_bill="12121212121212121212"/>
+</Supplier>

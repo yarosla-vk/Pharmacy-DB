@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Nakladna>
+	<NakladnaRecord id_nakladna="1" nakladna_date="2024-06-01" nakladna_suffers="Парацетамол, Пірацетам" id_employee="1" id_supplier="1"/>
+	<NakladnaRecord id_nakladna="2" nakladna_date="2024-06-02" nakladna_suffers="Цика-Крем" id_employee="4" id_supplier="2"/>
+	<NakladnaRecord id_nakladna="3" nakladna_date="2024-06-03" nakladna_suffers="Юнівіт, Декамевіт" id_employee="7" id_supplier="3"/>
+	<NakladnaRecord id_nakladna="4" nakladna_date="2024-06-03" nakladna_suffers="Зест" id_employee="9" id_supplier="4"/>
+	<NakladnaRecord id_nakladna="5" nakladna_date="2024-06-03" nakladna_suffers="ГРУПП" id_employee="5" id_supplier="5"/>
+	<NakladnaRecord id_nakladna="6" nakladna_date="2024-06-03" nakladna_suffers="Пінка очищуюча" id_employee="1" id_supplier="6"/>
+	<NakladnaRecord id_nakladna="7" nakladna_date="2024-06-03" nakladna_suffers="Засіб для волосся" id_employee="7" id_supplier="7"/>
+	<NakladnaRecord id_nakladna="8" nakladna_date="2024-06-03" nakladna_suffers="Парацетамол" id_employee="8" id_supplier="8"/>
+	<NakladnaRecord id_nakladna="9" nakladna_date="2024-06-03" nakladna_suffers="Цика-Крем, Парацетамол" id_employee="1" id_supplier="9"/>
+	<NakladnaRecord id_nakladna="10" nakladna_date="2024-06-03" nakladna_suffers="Пірацетам, Юнівіт" id_employee="10" id_supplier="10"/>
+	<NakladnaRecord id_nakladna="11" nakladna_date="2024-06-03" nakladna_suffers="Зест, ГРУПП" id_employee="4" id_supplier="11"/>
+	<NakladnaRecord id_nakladna="12" nakladna_date="2024-06-03" nakladna_suffers="Пінка очищуюча, Засіб для волосся" id_employee="12" id_supplier="12"/>
+</Nakladna>
+
+
+
+

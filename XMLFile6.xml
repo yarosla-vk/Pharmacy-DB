@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Products>
+	<Product>
+		<id_tov>1</id_tov>
+		<tov_name>Декамевіт</tov_name>
+		<tov_maker>Київський Вітамінний Завод</tov_maker>
+		<tov_country>Україна</tov_country>
+		<tov_anotation>З лікувальною метою дорослим внутрішньо після їжі по 1 таблетці 1-2 рази на добу. курс лікування зазвичай становить 20 днів. в залежності від показань можливі повторні курси з перервами між ними в 2-3 міс.</tov_anotation>
+		<category>Вітаміни</category>
+		<form_info>Таблетки</form_info>
+		<form_age>18</form_age>
+		<form_dose>1</form_dose>
+		<form_amount>36</form_amount>
+		<form_price>102.56</form_price>
+	</Product>
+	<Product>
+		<id_tov>2</id_tov>
+		<tov_name>Юнівіт</tov_name>
+		<tov_maker>Київський Вітамінний Завод</tov_maker>
+		<tov_country>Україна</tov_country>
+		<tov_anotation>Для профілактики гіповітамінозу: дітям у віці 4-6 років - по 1 таблетці 1-2 рази на добу; дітям у віці 7-14 років - по 1 таблетці 2-3 рази на добу. Для лікування гіповітамінозу: дітям у віці 4-6 років - по 1 таблетці 4 рази на добу; дітям у віці 7-14 років - по 1 таблетці 5 разів на добу. При зниженому апетиті лікарський засіб Юнівіт рекомендується застосовувати протягом 2 міс, при інших показаннях - по необхідності в залежності від тривалості та частоти виникнення симптомів після консультації з лікарем.</tov_anotation>
+		<category>Вітаміни</category>
+		<form_info>Таблетки</form_info>
+		<form_age>4</form_age>
+		<form_dose>1</form_dose>
+		<form_amount>30</form_amount>
+		<form_price>77.40</form_price>
+	</Product>
+	<Product>
+		<id_tov>3</id_tov>
+		<tov_name>Зест</tov_name>
+		<tov_maker>Elephant</tov_maker>
+		<tov_country>Сербія</tov_country>
+		<tov_anotation>Вживати дорослим і дітям з 11 років по 1 таблетці 1 раз на добу вранці після їжі, запиваючи склянкою води.</tov_anotation>
+		<category>Вітаміни</category>
+		<form_info>Таблетки</form_info>
+		<form_age>11</form_age>
+		<form_dose>1</form_dose>
+		<form_amount>10</form_amount>
+		<form_price>358.37</form_price>
+	</Product>
+	<Product>
+		<id_tov>4</id_tov>
+		<tov_name>Супрадин</tov_name>
+		<tov_maker>Амафарм</tov_maker>
+		<tov_country>Німеччина</tov_country>
+		<tov_anotation>Дорослим і дітям віком старше 12 років: по 1 таблетці, вкритій плівковою оболонкою, або по 1 шипучою таблетці на добу.</tov_anotation>
+		<category>Вітаміни</category>
+		<form_info>Таблетки</form_info>
+		<form_age>12</form_age>
+		<form_dose>1</form_dose>
+		<form_amount>5</form_amount>
+		<form_price>603.84</form_price>
+	</Product>
+	<Product>
+		<id_tov>5</id_tov>
+		<tov_name>Диклофенак натрію</tov_name>
+		<tov_maker>Лубнифарм</tov_maker>
+		<tov_country>Україна</tov_country>
+		<tov_anotation>Дозу слід підбирати індивідуально, починаючи з мінімальної ефективної дози, та слід приймати протягом найменшого можливого терміну.</tov_anotation>
+		<category>Нестероїдні протизпальні ЛЗ</category>
+		<form_info>Таблетки</form_info>
+		<form_age>18</form_age>
+		<form_dose>1</form_dose>
+		<form_amount>20</form_amount>
+		<form_price>42.65</form_price>
+	</Product>
+	<Product>
+		<id_tov>6</id_tov>
+		<tov_name>Ібупрофен</tov_name>
+		<tov_maker>Дарниця</tov_maker>
+		<tov_country>Україна</tov_country>
+		<tov_anotation>Нестероїдний протизапальний засіб для зняття болю, жару та запалення.</tov_anotation>
+		<category>Нестероїдні протизпальні ЛЗ</category>
+		<form_info>Таблетки</form_info>
+		<form_age>18</form_age>
+		<form_dose>1</form_dose>
+		<form_amount>24</form_amount>
+		<form_price>56.87</form_price>
+	</Product>
+	<Product>
+		<id_tov>7</id_tov>
+		<tov_name>Парацетамол</tov_name>
+		<tov_maker>Дарниця</tov_maker>
+		<tov_country>Україна</tov_country>
+		<tov_anotation>Анальгетик і жарознижувальний засіб для зняття болю і зниження температури.</tov_anotation>
+		<category>Нестероїдні протизпальні ЛЗ</category>
+		<form_info>Таблетки</form_info>
+		<form_age>18</form_age>
+		<form_dose>1</form_dose>
+		<form_amount>24</form_amount>
+		<form_price>20.75</form_price>
+	</Product>
+	<Product>
+		<id_tov>8</id_tov>
+		<tov_name>Ацеклофенак</tov_name>
+		<tov_maker>Гедеон Ріхтер</tov_maker>
+		<tov_country>Угорщина</tov_country>
+		<tov_anotation>Нестероїдний протизапальний засіб для зняття болю та запалення.</tov_anotation>
+		<category>Нестероїдні протизпальні ЛЗ</category>
+		<form_info>Таблетки</form_info>
+		<form_age>18</form_age>
+		<form_dose>1</form_dose>
+		<form_amount>54</form_amount>
+		<form_price>45.71</form_price>
+	</Product>
+	<Product>
+		<id_tov>9</id_tov>
+		<tov_name>Седавіт</tov_name>
+		<tov_maker>Київський Вітамінний Завод</tov_maker>
+		<tov_country>Україна</tov_country>
+		<tov_anotation>Седативний засіб для зниження нервового напруження і стресу.</tov_anotation>
+		<category>Седативні ЛЗ</category>
+		<form_info>Таблетки</form_info>
+		<form_age>18</form_age>
+		<form_dose>1</form_dose>
+		<form_amount>37</form_amount>
+		<form_price>87.13</form_price>
+	</Product>
+	<Product>
+		<id_tov>10</id_tov>
+		<tov_name>Валеріанівна</tov_name>
+		<tov_maker>Омніфарма</tov_maker>
+		<tov_country>Україна</tov_country>
+		<tov_anotation>Седативний засіб на основі валеріани для зниження нервової напруги.</tov_anotation>
+		<category>Седативні ЛЗ</category>
+	<form_info>Таблетки</form_info>
+	<form_age>18</form_age>
+	<form_dose>1</form_dose>
+	<form_amount>31</form_amount>
+	<form_price>39.22</form_price>
+</Product>
+<Product>
+	<id_tov>11</id_tov>
+	<tov_name>Фітосед</tov_name>
+	<tov_maker>Київський Вітамінний Завод</tov_maker>
+	<tov_country>Україна</tov_country>
+	<tov_anotation>Рослинний седативний засіб для зниження нервового напруження.</tov_anotation>
+	<category>Седативні ЛЗ</category>
+	<form_info>Таблетки</form_info>
+	<form_age>18</form_age>
+	<form_dose>1</form_dose>
+	<form_amount>31</form_amount>
+	<form_price>47.50</form_price>
+</Product>
+<Product>
+	<id_tov>12</id_tov>
+	<tov_name>Ново-пасит</tov_name>
+	<tov_maker>Тева</tov_maker>
+	<tov_country>Чехія</tov_country>
+	<tov_anotation>Комбінований седативний засіб для лікування нервових розладів і стресу.</tov_anotation>
+	<category>Седативні ЛЗ</category>
+	<form_info>Таблетки</form_info>
+	<form_age>18</form_age>
+	<form_dose>1</form_dose>
+	<form_amount>42</form_amount>
+	<form_price>158.64</form_price>
+</Product>
+<Product>
+	<id_tov>13</id_tov>
+	<tov_name>Лоратадин</tov_name>
+	<tov_maker>Дарниця</tov_maker>
+	<tov_country>Україна</tov_country>
+	<tov_anotation>Антигістамінний засіб для лікування алергічних реакцій.</tov_anotation>
+	<category>Антигістамінні ЛЗ</category>
+	<form_info>Таблетки</form_info>
+	<form_age>18</form_age>
+	<form_dose>1</form_dose>
+	<form_amount>45</form_amount>
+	<form_price>52.37</form_price>
+</Product>
+<Product>
+	<id_tov>14</id_tov>
+	<tov_name>Цетрин</tov_name>
+	<tov_maker>Лімітед</tov_maker>
+	<tov_country>Індія</tov_country>
+	<tov_anotation>Антигістамінний препарат для полегшення симптомів алергії.</tov_anotation>
+	<category>Антигістамінні ЛЗ</category>
+	<form_info>Таблетки</form_info>
+	<form_age>18</form_age>
+	<form_dose>1</form_dose>
+	<form_amount>55</form_amount>
+	<form_price>70.59</form_price>
+</Product>
+<Product>
+	<id_tov>15</id_tov>
+	<tov_name>Тигофаст</tov_name>
+	<tov_maker>Артура</tov_maker>
+	<tov_country>Індія</tov_country>
+	<tov_anotation>Антигістамінний засіб для зняття алергічних симптомів.</tov_anotation>
+	<category>Антигістамінні ЛЗ</category>
+	<form_info>Таблетки</form_info>
+	<form_age>18</form_age>
+	<form_dose>1</form_dose>
+	<form_amount>66</form_amount>
+	<form_price>126.20</form_price>
+</Product>
+<Product>
+	<id_tov>16</id_tov>
+	<tov_name>Фексофаст</tov_name>
+	<tov_maker>Лімітед</tov_maker>
+	<tov_country>Індія</tov_country>
+	<tov_anotation>Антигістамінний препарат для лікування алергічних реакцій</tov_anotation>
+	<category>Антигістамінні ЛЗ</category>
+	<form_info>Таблетки</form_info>
+	<form_age>18</form_age>
+	<form_dose>1</form_dose>
+	<form_amount>34</form_amount>
+	<form_price>143.17</form_price>
+</Product>
+<Product>
+	<id_tov>17</id_tov>
+	<tov_name>Луцетам</tov_name>
+	<tov_maker>Егіс</tov_maker>
+	<tov_country>Угорщина</tov_country>
+	<tov_anotation>Ноотропний засіб для поліпшення когнітивних функцій.</tov_anotation>
+	<category>Ноотропні ЛЗ</category>
+	<form_info>Таблетки</form_info>
+	<form_age>18</form_age>
+	<form_dose>1</form_dose>
+	<form_amount>56</form_amount>
+	<form_price>90.00</form_price>
+</Product>
+<Product>
+	<id_tov>18</id_tov>
+	<tov_name>Пірацетам</tov_name>
+	<tov_maker>Дарниця</tov_maker>
+	<tov_country>Україна</tov_country>
+	<tov_anotation>Ноотропний препарат для поліпшення мозкової діяльностності.</tov_anotation>
+    <category>Ноотропні ЛЗ</category>
+    <form_info>Таблетки</form_info>
+    <form_age>18</form_age>
+    <form_dose>1</form_dose>
+    <form_amount>63</form_amount>
+    <form_price>58.99</form_price>
+  </Product>
+  <Product>
+    <id_tov>19</id_tov>
+    <tov_name>Фезам</tov_name>
+    <tov_maker>Балканфарма</tov_maker>
+    <tov_country>Болгарія</tov_country>
+    <tov_anotation>Комбінований ноотропний засіб для поліпшення мозкової діяльності та кровообігу.</tov_anotation>
+    <category>Ноотропні ЛЗ</category>
+    <form_info>Таблетки</form_info>
+    <form_age>18</form_age>
+    <form_dose>1</form_dose>
+    <form_amount>52</form_amount>
+    <form_price>67.50</form_price>
+  </Product>
+  <Product>
+    <id_tov>20</id_tov>
+    <tov_name>Цераксон</tov_name>
+    <tov_maker>Феррер</tov_maker>
+    <tov_country>Іспанія</tov_country>
+    <tov_anotation>Ноотропний препарат для відновлення когнітивних функцій після інсульту та черепно-мозкових травм.</tov_anotation>
+    <category>Ноотропні ЛЗ</category>
+    <form_info>Таблетки</form_info>
+    <form_age>18</form_age>
+    <form_dose>1</form_dose>
+    <form_amount>49</form_amount>
+    <form_price>633.90</form_price>
+  </Product>
+		<Product Number="20" Name="Цераксон" Character="Феррер" Country="Іспанія" Annotation="Ноотропний препарат для відновлення когнітивних функцій після інсульту та черепно-мозкових травм." Category="Ноотропні ЛЗ" FormInfo="Таблетки" Age="18" Dose="1" Amount="49" Price="633.90" />
+		<Product Number="21" Name="Тонік для обличчя" Character="Vichy" Country="Франція" Annotation="Цей освіжаючий тонік очищає, тонізує та зволожує шкіру обличчя, готуючи її до подальшого догляду. Підходить для всіх типів шкіри, включаючи чутливу." Category="Косметика" FormInfo="Косметика" Age="18" Dose="1" Amount="12" Price="540.00" />
+		<Product Number="22" Name="Дезодорант" Character="Vichy" Country="Франція" Annotation="Цей дезодорант забезпечує 48-годинний захист від запаху та поту, даруючи відчуття свіжості та комфорту протягом дня. Не містить спирту, тому підходить для чутливої шкіри." Category="Косметика" FormInfo="Косметика" Age="18" Dose="1" Amount="12" Price="433.90" />
+		<Product Number="23" Name="Гель для обличчя" Character="Vichy" Country="Франція" Annotation="Цей зволожуючий гель для обличчя дарує шкірі глибоке зволоження та заспокоєння. Містить гіалуронову кислоту та термальну воду Vichy, які насичують шкіру вологою та роблять її більш еластичною." Category="Косметика" FormInfo="Косметика" Age="18" Dose="1" Amount="12" Price="645.90" />
+		<Product Number="24" Name="Засіб для волосся" Character="Vichy" Country="Франція" Annotation="Цей живильний засіб для волосся інтенсивно зволожує, зміцнює та відновлює пошкоджене волосся. Робить волосся м'яким, блискучим та слухняним." Category="Косметика" FormInfo="Косметика" Age="18" Dose="1" Amount="12" Price="2068.10" />
+		<Product Number="25" Name="Гель для обличчя і тіла" Character="Cerave" Country="Франція" Annotation="Цей зволожуючий крем для обличчя дарує шкірі глибоке зволоження та захист протягом 24 годин. Містить гіалуронову кислоту, кераміди та SPF 30, які роблять шкіру більш еластичною, гладкою та сяючою." Category="Косметика" FormInfo="Косметика" Age="18" Dose="1" Amount="12" Price="482.40" />
+		<Product Number="26" Name="Крем для обличчя" Character="Cerave" Country="Франція" Annotation="Цей зволожуючий крем для обличчя дарує шкірі глибоке зволоження та захист протягом 24 годин. Містить гіалуронову кислоту, кераміди та SPF 30, які роблять шкіру більш еластичною, гладкою та сяючою." Category="Косметика" FormInfo="Косметика" Age="18" Dose="1" Amount="12" Price="529.70" />
+		<Product Number="27" Name="Крем для рук" Character="Cerave" Country="Франція" Annotation="Цей зволожуючий крем для рук інтенсивно живить, пом'якшує та захищає шкіру рук. Містить гіалуронову кислоту, кераміди та вітамін E, які борються з сухістю та лущенням." Category="Косметика" FormInfo="Косметика" Age="18" Dose="1" Amount="12" Price="232.70" />
+		<Product Number="28" Name="Сироватка" Character="Cerave" Country="Франція" Annotation="Ця концентрована сироватка на основі гіалуронової кислоти та ніацинаміду інтенсивно зволожує, розгладжує та освітлює шкіру обличчя. Бореться з ознаками старіння та робить шкіру більш сяючючою." Category="Косметика" FormInfo="Косметика" Age="18" Dose="1" Amount="12" Price="633.60" />
+    <Product Number="29" Name="Бальзам для шкіри" Character="La Roche-Posay" Country="Франція" Annotation="Миттєве полегшення від подразнення: Цей заспокійливий бальзам дарує шкірі миттєве полегшення від подразнення, свербіння та почервоніння. Термальна вода La Roche-Posay: Містить термальну воду La Roche-Posay, багату на мінерали, які заспокоюють та зволожують шкіру. Пребіотики та вітамін B5: Допомагають відновити захисний бар'єр шкіри та стимулюють її регенерацію. Для чутливої шкіри: Підходить для чутливої шкіри, схильної до подразнення." Category="Косметика" FormInfo="Косметика" Age="18" Dose="1" Amount="12" Price="347.00" />
+    <Product Number="30" Name="Крем-гель для шкіри" Character="La Roche-Posay" Country="Франція" Annotation="Глибоке зволоження та захист 48 годин: Цей крем-гель дарує шкірі глибоке зволоження протягом 48 годин, а також захищає її від зовнішніх агресорів. Термальна вода La Roche-Posay: Містить термальну воду La Roche-Posay, багату на мінерали, які заспокоюють та зволожують шкіру. Ніацинамід та церамиди: Допомагають зміцнити захисний бар'єр шкіри та зробити її більш еластичною. Для всіх типів шкіри: Підходить для всіх типів шкіри, включаючи чутливу." Category="Косметика" FormInfo="Косметика" Age="18" Dose="1" Amount="12" Price="611.20" />
+	<Product form_info="Косметика" Number="31" Character="La Roche-Posay" Name="Лосьйон для тіла" Position="La Roche-Posay" Email="Франція" Phone="Зволоження 24 години: Цей лосьйон дарує шкірі тіла глибоке зволоження протягом 24 годин. Термальна вода La Roche-Posay: Містить термальну воду La Roche-Posay, багату на мінерали, які заспокоюють та зволожують шкіру. Ніацинамід та shea butter: Допомагають пом'якшити та захистити шкіру тіла. Для сухої та чутливої шкіри: Підходить для сухої та чутливої шкіри." Price="536.60" FormAmount="12" />
+	<Product form_info="Косметика" Number="32" Character="La Roche-Posay" Name="Олія для ванни" Position="La Roche-Posay" Email="Франція" Phone="Інтенсивне зволоження та розслаблення: Ця олія для ванни дарує шкірі тіла інтенсивне зволоження, пом'якшення та розслаблення. Термальна вода La Roche-Posay: Містить термальну воду La Roche-Posay, багату на мінерали, які заспокоюють та зволожують шкіру. Олії карите та соняшнику: Допомагають живити та пом'якшувати шкіру. Для всіх типів шкіри: Підходить для всіх типів шкіри." Price="693.80" FormAmount="12" />
+	<Product form_info="Косметика" Number="33" Character="Apivita" Name="Маска для обличчя" Position="Apivita" Email="Греція" Phone="Інтенсивне зволоження та живлення: Ця маска дарує шкірі обличчя інтенсивне зволоження, живлення та відновлення. Натуральні інгредієнти: Містить натуральні інгредієнти, такі як мед, олива та йогурт, які живлять та заспокоюють шкіру. Для всіх типів шкіри: Підходить для всіх типів шкіри, включаючи чутливу." Price="130.00" FormAmount="12" />
+	<Product form_info="Косметика" Number="34" Character="Apivita" Name="Пінка очищуюча" Position="Apivita" Email="Греція" Phone="Дбайливе очищення та зволоження: Ця пінка м'яко очищає шкіру обличчя, видаляючи бруд, макіяж та надлишки шкірного сала. Натуральні інгредієнти: Містить натуральні інгредієнти, такі як алое вера та ромашка, які заспокоюють та зволожують шкіру. Для всіх типів шкіри: Підходить для всіх типів шкіри, включаючи чутливу." Price="539.40" FormAmount="12" />
+	<Product form_info="Косметика" Number="35" Character="Apivita" Name="Шампунь для волосся" Position="Apivita" Email="Греція" Phone="Живить, зміцнює та відновлює волосся: Цей шампунь живить, зміцнює та відновлює волосся, роблячи його більш еластичним, блискучим та слухняним. Натуральні інгредієнти: Містить натуральні інгредієнти, такі як оливкова олія, мед та прополіс, які живлять та захищають волосся. Для всіх типів волосся: Підходить для всіх типів волосся, включаючи пошкоджене та ослаблене." Price="426.30" FormAmount="12" />
+	<Product form_info="Косметика" Number="36" Character="Apivita" Name="Лосьйон заспокійливий" Position="Apivita" Email="Греція" Phone="Заспокоює та зволожує шкіру: Цей лосьйон заспокоює та зволожує роздратовану та чутливу шкіру. Натуральні інгредієнти: Містить натуральні інгредієнти, такі як алое вера, ромашка та календула, для чутлівої шкирі схильної доподразнення" Price="539.40" FormAmount="12" />
+	<Product form_info="Косметика" Number="37" Character="Uriage" Name="Цика-Крем" Position="Laboratories" Email="Франція" Phone="Відновлення та заспокоєння пошкодженої шкіри: Цей крем інтенсивно відновлює, заспокоює та захищає пошкоджену, подразнену або чутливу шкіру. Термальна вода Uriage: Містить термальну воду Uriage, багату на мінерали, які заспокоюють та зволожують шкіру. Cica-комплекс: Допомагає стимулювати регенерацію шкіри та зменшити запалення. Для всіх типів шкіри: Підходить для всіх типів шкіри, включаючи чутливу." Price="342.60" FormAmount="12" />
+	<Product form_info="Косметика" Number="38" Character="Uriage" Name="Крем для тіла" Position="Laboratories" Email="Франція" Phone="Зволоження та захист 24 години: Цей крем дарує шкірі тіла глибоке зволоження протягом 24 годин, а також захищає її від зовнішніх агресорів. Термальна вода Uriage: Містить термальну воду Uriage, багату на мінерали, які заспокоюють та зволожують шкіру. Масло ши: Допомагає живити та пом'якшувати шкіру тіла. Для сухої та чутливої шкіри: Підходить для сухої та чутливої шкіри." Price="532.20" FormAmount="12" />
+	<Product form_info="Косметика" Number="39" Character="Uriage" Name="Крем для обличчя" Position="Laboratories" Email="Франція" Phone="Інтенсивне зволоження та захист 48 годин: Цей крем дарує шкірі обличчя глибоке зволоження протягом 48 годин, а також захищає її від зовнішніх агресорів. Термальна вода Uriage: Містить термальну воду Uriage, багату на мінерали, які заспокоюють та зволожують шкіру. Hyaluronic acid: Допомагає утримувати вологу в шкірі та робить її більш еластичною. Для всіх типів шкіри: Підходить для всіх типів шкіри, включаючи чутливу." Price="651.50" FormAmount="12" />
+	<Product form_info="Косметика" Number="40" Character="Uriage" Name="Емульсія для тіла" Position="Laboratories" Email="Франція" Phone="Легке зволоження та захист: Ця емульсія дарує шкірі тіла легке зволоження протягом 24 годин, а також захищає її від зовнішніх агресорів. Термальна вода Uriage: Містить термальну воду Uriage, багату на мінерали, які заспокоюють та зволожують шкіру. Aqua-porine: Допомагає утримувати вологу в шкірі та робить її більш еластичною. Для нормальної та комбінованої шкіри: Підходить для нормальної та комбінованої шкіри." Price="497.70" FormAmount="12" />
+	<Product form_info="Техніка" Number="41" Character="Милиці" Name="ГРУПП" Position="ТМП" Email="Україна" Phone="Пахвові милиці ГРУПП - це надійний та зручний засіб для людей, які потребують опори при ходьбі. Виготовлені з міцного дерева, вони регулюються по висоті та оснащені гумовими наконечниками для запобігання ковзанню." Price="401.40" FormAmount="12" />
+	<Product form_info="Техніка" Number="42" Character="Милиці" Name="РИПОР" Position="РИПОР" Email="Україна" Phone="Пахвові милиці РИПОР - це ще один чудовий варіант для людей, які потребують опори при ходьбі. Вони також виготовлені з міцного дерева, регулюються по висоті та оснащені гумовими наконечниками." Price="786.20" FormAmount="12" />
+	<Product form_info="Техніка" Number="43" Character="Милиці" Name="С01S1" Position="Осенберг" Email="Німеччина" Phone="Пахвові милиці С01S1 - це високоякісний вибір для людей, які потребують максимальної підтримки. Виготовлені з алюмінію, вони легкі та міцні, а також регулюються по висоті та оснащені зручними ручками." Price="1078.00" FormAmount="12" />
+	<Product form_info="Техніка" Number="44" Character="Милиці" Name="CO1M" Position="Осенберг" Email="Німеччина" Phone="Пахвові милиці С01S1 - це високоякісний вибір для людей, які потребують максимальної підтримки. Виготовлені з алюмінію, вони легкі та міцні, а також регулюються по висоті та оснащені зручними ручками." Price="1078.00" FormAmount="12" />
+	<Product form_info="Техніка" Number="45" Character="Тонометри" Name="Paramed Expert X" Position="Paramed" Email="Китай" Phone="Тонометр Paramed Expert X - це точний та простий у використанні прилад для вимірювання артеріального тиску в домашніх умовах. Він має адаптер живлення та збільшену манжету для зручного використання." Price="1239.50" FormAmount="12" />
+	<Product form_info="Техніка" Number="46" Character="Тонометри" Name="Paramed One X" Position="Paramed" Email="Китай" Phone="Тонометр Paramed One X - це ще один надійний варіант для домашнього вимірювання артеріального тиску. Він має адаптер живлення та збільшену манжету, а також функцію пам'яті для відстеження результатів." Price="1030.60" FormAmount="12" />
+	<Product form_info="Техніка" Number="47" Character="Тонометри" Name="Gamma" Position="Paramed" Email="Китай" Phone="Тонометр Gamma - це доступний та простий у використанні тонометр для домашнього вимірювання артеріального тиску. Він має адаптер живлення та збільшену манжету." Price="936.30" FormAmount="12" />
+	<Product form_info="Техніка" Number="48" Character="Тонометри" Name="Paramed Indicator" Position="Paramed" Email="Китай" Phone="Тонометр Paramed Indicator - це тонометр преміум-класу з автоматичним вимірюванням та функцією пам'яті. Він має адаптер живлення та збільшену манжету для зручного використання." Price="1596.90" FormAmount="12" />
+	<Product form_info="Техніка" Number="49" Character="Термометри" Name="Little Doctor" Position="Paramed" Email="Китай" Phone="Термометр Little Doctor - це швидкий та точний електронний термометр для використання вдома. Він має водонепроникний корпус та функцію пам'яті для відстеження результатів." Price="179.20" FormAmount="12" />
+	<Product form_info="Техніка" Number="49" Character="Термометри" Name="Little Doctor" Position="Paramed" Email="Китай" Phone="Термометр Little Doctor - це швидкий та точний електронний термометр для використання вдома. Він має водонепроникний корпус та функцію пам'яті для відстеження результатів." Price="179.20" FormAmount="12" />
+	<Product form_info="Техніка" Number="50" Character="Термометри" Name="Paramed Basic" Position="Paramed" Email="Китай" Phone="Термометр Paramed Basic - це простий та доступний ртутний термометр для використання вдома." Price="200.50" FormAmount="12" />
+	<Product form_info="Техніка" Number="52" Character="Термометри" Name="Paramed" Position="Paramed" Email="Китай" Phone="Термометр медичний скляний без ртуті" Price="168.00" FormAmount="12" />
+	<Product form_info="Техніка" Number="53" Character="Масажери" Name="MilPlast" Position="Осенберг" Email="Німеччина" Phone="Масажер MilPlast - це портативний масажер, який можна використовувати для зняття м'язової напруги та болю. Він має кілька режимів масажу та регульований рівень інтенсивності." Price="239.60" FormAmount="12" />
+	<Product form_info="Техніка" Number="54" Character="Масажери" Name="Іплікатор" Position="Xiamen" Email="Сингапур" Phone="Масажер Іплікатор - це аплікатор голчастий, який використовується для стимуляції біологічно активних точок на тілі. Він може допомогти зменшити біль, покращити кровообіг та підвищити імунітет." Price="77.20" FormAmount="12" />
+	<Product form_info="Техніка" Number="55" Character="Масажери" Name="Тетраком" Position="Осенберг" Email="Німеччина" Phone="Масажер Поліком використовується для індивідуального застосування в домашніх умовах при хронічній втомі, м'язових і суглобових болях, нейтралізації «пробок» в енергетичних каналах." Price="74.80" FormAmount="12" />
+	<Product form_info="Техніка" Number="56" Character="Недоступний" Name="Поліком" Position="Лімітед" Email="Індія" Phone="Масажер Тетраком - це ще один тип аплікатора голчастого, який використовується для стимуляції біологічно активних точок на тілі. Він може допомогти зменшити біль, покращити кровообіг та підвищити імунітет." Price="71.00" FormAmount="12" />
+	<Product form_info="Техніка" Number="57" Character="Стетоскопи" Name="Paramed1" Position="Paramed" Email="Китай" Phone=" Стетоскоп Paramed1 - це надійний та точний стетоскоп для використання медичними працівниками. Він має подвійну головку для аускультації серця та легенів." Price="222.00" FormAmount="12" />
+</Products>
+

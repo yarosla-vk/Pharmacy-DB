@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Supply>
+	<SupplyRecord id_supply="1" supply_amount="20" supply_price="150.00" id_nakladna="10"/>
+	<SupplyRecord id_supply="2" supply_amount="15" supply_price="200.00" id_nakladna="7"/>
+	<SupplyRecord id_supply="3" supply_amount="10" supply_price="100.00" id_nakladna="3"/>
+	<SupplyRecord id_supply="4" supply_amount="25" supply_price="180.00" id_nakladna="8"/>
+	<SupplyRecord id_supply="5" supply_amount="30" supply_price="220.00" id_nakladna="1"/>
+	<SupplyRecord id_supply="6" supply_amount="12" supply_price="90.00" id_nakladna="5"/>
+	<SupplyRecord id_supply="7" supply_amount="18" supply_price="120.00" id_nakladna="12"/>
+	<SupplyRecord id_supply="8" supply_amount="22" supply_price="160.00" id_nakladna="11"/>
+	<SupplyRecord id_supply="9" supply_amount="8" supply_price="130.00" id_nakladna="4"/>
+	<SupplyRecord id_supply="10" supply_amount="14" supply_price="190.00" id_nakladna="6"/>
+	<SupplyRecord id_supply="11" supply_amount="16" supply_price="170.00" id_nakladna="2"/>
+	<SupplyRecord id_supply="12" supply_amount="9" supply_price="140.00" id_nakladna="9"/>
+</Supply>
+
+

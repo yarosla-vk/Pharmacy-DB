@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Prodazh>
+	<ProdazhRecord id_prodazh="1" id_employee="3" prodazh_date="2024-06-03T13:05:34" sale_amount="112.93" tov_amount="1" id_tov="18" id_price="112.93" maker="Україна">
+		<Product Number="1" Character="Вітаміни" Name="Декамевіт" Position="Київський Вітамінний Завод" Email="Україна" Type="Препарати" Phone="З лікувальною метою дорослим внутрішньо після їжі по 1 таблетці 1-2 рази на добу. курс лікування зазвичай становить 20 днів. в залежності від показань можливі повторні курси з перервами між ними в 2-3 міс." Price="102.56" FormAmount="36" />
+		<Employee Name="Павленко Віктор" Position="Помічник фармацевта" Phone="+380974567456" Address="м. Київ, вул. Героїв Дніпра, 67" Sex="Чоловік" Email="viktor@gmail.com" BirthDate="1985-12-30" />
+	</ProdazhRecord>
+	<ProdazhRecord id_prodazh="2" id_employee="1" prodazh_date="2024-06-02T14:10:00" sale_amount="67.26" tov_amount="1" id_tov="24" id_price="67.26" maker="Франція">
+		<Product Number="2" Character="Косметика" Name="Крем для обличчя" Position="Vichy" Email="Франція" Type="Косметичні вироби" Phone="Для щоденного використання." Price="67.26" FormAmount="50" />
+		<Employee Name="Іванов Сергій" Position="Фармацевт" Phone="+380974567457" Address="м. Київ, вул. Лесі Українки, 12" Sex="Чоловік" Email="sergey@gmail.com" BirthDate="1980-05-12" />
+	</ProdazhRecord>
+	<ProdazhRecord id_prodazh="3" id_employee="2" prodazh_date="2024-06-02T15:15:20" sale_amount="1032.48" tov_amount="2" id_tov="33" id_price="516.24" maker="Франція">
+		<Product Number="3" Character="Ліки" Name="Анальгін" Position="Sanofi" Email="Франція" Type="Препарати" Phone="Приймати по 1 таблетці при болях." Price="516.24" FormAmount="20" />
+		<Employee Name="Коваль Олена" Position="Старший фармацевт" Phone="+380974567458" Address="м. Київ, вул. Хрещатик, 22" Sex="Жінка" Email="olena@gmail.com" BirthDate="1983-07-19" />
+	</ProdazhRecord>
+	<ProdazhRecord id_prodazh="4" id_employee="3" prodazh_date="2024-06-04T10:30:00" sale_amount="205.12" tov_amount="2" id_tov="9" id_price="102.56" maker="Україна">
+		<Product Number="1" Character="Вітаміни" Name="Декамевіт" Position="Київський Вітамінний Завод" Email="Україна" Type="Препарати" Phone="З лікувальною метою дорослим внутрішньо після їжі по 1 таблетці 1-2 рази на добу. курс лікування зазвичай становить 20 днів. в залежності від показань можливі повторні курси з перервами між ними в 2-3 міс." Price="102.56" FormAmount="36" />
+		<Employee Name="Павленко Віктор" Position="Помічник фармацевта" Phone="+380974567456" Address="м. Київ, вул. Героїв Дніпра, 67" Sex="Чоловік" Email="viktor@gmail.com" BirthDate="1985-12-30" />
+	</ProdazhRecord>
+	<ProdazhRecord id_prodazh="5" id_employee="1" prodazh_date="2024-06-05T11:00:00" sale_amount="309.78" tov_amount="3" id_tov="37" id_price="103.26" maker="Франція">
+		<Product Number="4" Character="Ліки" Name="Парацетамол" Position="GSK" Email="Франція" Type="Препарати" Phone="Приймати по 1 таблетці при температурі." Price="103.26" FormAmount="50" />
+		<Employee Name="Іванов Сергій" Position="Фармацевт" Phone="+380974567457" Address="м. Київ, вул. Лесі Українки, 12" Sex="Чоловік" Email="sergey@gmail.com" BirthDate="1980-05-12" />
+	</ProdazhRecord>
+	<ProdazhRecord id_prodazh="6" id_employee="2" prodazh_date="2024-06-06T12:15:00" sale_amount="2580.20" tov_amount="2" id_tov="41" id_price="1290.10" maker="Китай">
+		<Product Number="5" Character="Косметика" Name="Крем для рук" Position="Cerave" Email="Франція" Type="Косметичні вироби" Phone="Для щоденного використання." Price="1290.10" FormAmount="50" />
+		<Employee Name="Коваль Олена" Position="Старший фармацевт" Phone="+380974567458" Address="м. Київ, вул. Хрещатик, 22" Sex="Жінка" Email="olena@gmail.com" BirthDate="1983-07-19" />
+	</ProdazhRecord>
+	<ProdazhRecord id_prodazh="7" id_employee="3" prodazh_date="2024-06-07T13:45:00" sale_amount="112.93" tov_amount="1" id_tov="10" id_price="112.93" maker="Україна">
+		<Product Number="1" Character="Вітаміни" Name="Декамевіт" Position="Київський Вітамінний Завод" Email="Україна" Type="Препарати" Phone="З лікувальною метою дорослим внутрішньо після їжі по 1 таблетці 1-2 рази на добу. курс лікування зазвичай становить 20 днів. в залежності від показань можливі повторні курси з перервами між ними в 2-3 міс." Price="102.56" FormAmount="36" />
+		<Employee Name="Павленко Віктор" Position="Помічник фармацевта" Phone="+380974567456" Address="м. Київ, вул. Героїв Дніпра, 67" Sex="Чоловік" Email="viktor@gmail.com" BirthDate="1985-12-30" />
+	</ProdazhRecord>
+	<ProdazhRecord id_prodazh="8" id_employee="1" prodazh_date="2024-06-08T14:30:00" sale_amount="1340.52" tov_amount="2" id_tov="57" id_price="670.26" maker="Індія">
+		<Product Number="6" Character="Ліки" Name="Антибіотик" Position="Dr. Reddy's" Email="Індія" Type="Препарати" Phone="Приймати за призначенням лікаря." Price="670.26" FormAmount="100" />
+		<Employee Name="Іванов Сергій" Position="Фармацевт" Phone="+380974567457" Address="м. Київ, вул. Лесі Українки, 12" Sex="Чоловік" Email="sergey@gmail.com" BirthDate="1980-05-12" />
+	</ProdazhRecord>
+	<ProdazhRecord id_prodazh="9" id_employee="2" prodazh_date="2024-06-09T15:00:00" sale_amount="516.24" tov_amount="1" id_tov="25" id_price="516.24" maker="Франція">
+		<Product Number="3" Character="Ліки" Name="Анальгін" Position="Sanofi" Email="Франція" Type="Препарати" Phone="Приймати по 1 таблетці при болях." Price="516.24" FormAmount="20" />
+		<Employee Name="Коваль Олена" Position="Старший фармацевт" Phone="+380974567458" Address="м. Київ, вул. Хрещатик, 22" Sex="Жінка" Email="olena@gmail.com" BirthDate="1983-07-19" />
+	</ProdazhRecord>
+	<ProdazhRecord id_prodazh="10" id_employee="3" prodazh_date="2024-06-10T16:00:00" sale_amount="225.12" tov_amount="2" id_tov="6" id_price="112.56" maker="Україна">
+		<Product Number="1" Character="Вітаміни" Name="Декамевіт" Position="Київський Вітамінний Завод" Email="Україна" Type="Препарати" Phone="З лікувальною метою дорослим внутрішньо після їжі по 1 таблетці 1-2 рази на добу. курс лікування зазвичай становить 20 днів. в залежності від показань можливі повторні курси з перервами між ними в 2-3 міс." Price="102.56" FormAmount="36" />
+		<Employee Name="Павленко Віктор" Position="Помічник фармацевта" Phone="+380974567456" Address="м. Київ, вул. Героїв Дніпра, 67" Sex="Чоловік" Email="viktor@gmail.com" BirthDate="1985-12-30" />
+	</ProdazhRecord>
+</Prodazh>
+
+
+

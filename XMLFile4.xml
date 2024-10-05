@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employees>
+  <Employee Name="Ярослав Толкунов" Position="Адміністратор" Phone="+380971234567" Address="м. Харків, вул. Салтівське шосе, 1" Sex="Чоловік" Email="yaroslav@gmail.com" BirthDate="2006-01-08" />
+  <Employee Name="Ярослав Толкунов" Position="Менеджер" Phone="+380972345678" Address="м. Харків, вул. Салтівське шосе, 1" Sex="Чоловік" Email="yaroslav@gmail.com" BirthDate="2006-01-08" />
+  <Employee Name="Ярослав Толкунов" Position="Власник" Phone="+380973456789" Address="м. Харків, вул. Салтівське шосе, 1" Sex="Чоловік" Email="yaroslav@gmail.com" BirthDate="2006-01-08" />
+  <Employee Name="Марія Сидорова" Position="Звільнено" Phone="+380974567890" Address="м. Київ, вул. Індустріальна, 17" Sex="Жінка" Email="maria@gmail.com" BirthDate="1985-12-20" />
+  <Employee Name="Григорій Булович" Position="Фармацевт" Phone="+380975678901" Address="м. Хмельницький, вул. Бандери, 5" Sex="Чоловік" Email="gosha@gmail.com" BirthDate="1988-07-10" />
+  <Employee Name="Христина Онощенко" Position="Стажер" Phone="+380976789012" Address="м. Харків, вул. Салтівське шосе, 1" Sex="Жінка" Email="kris@gmail.com" BirthDate="1998-10-01" />
+  <Employee Name="Булович Ольга" Position="Завідуюча Аптеки" Phone="+380977890123" Address="м. Харків, вул. Салтівське шосе, 248" Sex="Жінка" Email="olga@gmail.com" BirthDate="1971-01-02" />
+  <Employee Name="Тимченко Валерія" Position="Помічник фармацевта" Phone="+380978901234" Address="м. Харків, вул. Академіка Павлова, 2" Sex="Жінка" Email="lera@gmail.com" BirthDate="2006-04-07" />
+  <Employee Name="Єлизаветта Зоїдзе" Position="Фармацевт" Phone="+380979012345" Address="м. Харків, вул. Сумська, 5" Sex="Жінка" Email="liza@gmail.com" BirthDate="2005-03-16" />
+  <Employee Name="Діана Узун" Position="Фармацевт" Phone="+380971234123" Address="м. Харків, вул. Тракторобудівників, 12" Sex="Жінка" Email="diana@gmail.com" BirthDate="2006-12-27" />
+  <Employee Name="Михайло Шкурупій" Position="Фармацевт" Phone="+380972345234" Address="м. Харків, вул. Тракторобудівників, 263" Sex="Чоловік" Email="misha@gmail.com" BirthDate="2005-11-20" />
+  <Employee Name="Павленко Віктор" Position="Помічник фармацевта" Phone="+380974567456" Address="м. Київ, вул. Героїв Дніпра, 67" Sex="Чоловік" Email="viktor@gmail.com" BirthDate="1985-12-30" />
+  <Employee Name="Кожемякін Євгеній" Position="Помічник фармацевта" Phone="+380975678567" Address="м. Київ, вул. Мінська, 45" Sex="Чоловік" Email="zhenya@gmail.com" BirthDate="1987-05-10" />
+  <Employee Name="Новий працівник" Position="Посада" Phone="Телефон" Address="Адреса" Sex="Стать" Email="@gmail.com" BirthDate="2024-06-02" />
+  <Employee Name="Новий працівник" Position="Посада" Phone="Телефон" Address="Адреса" Sex="Стать" Email="Email" BirthDate="2024-06-02" />
+  <Employee Name="Новий працівник" Position="Посада" Phone="Телефон" Address="Адреса" Sex="Стать" Email="Email" BirthDate="2024-06-03" />
+</Employees>
